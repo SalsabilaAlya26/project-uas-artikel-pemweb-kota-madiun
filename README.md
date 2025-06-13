@@ -111,7 +111,7 @@ Sistem mendukung operasi lengkap untuk:
 
 -UPDATE
 
-    ![alt text](/assets/document/image-14.png)
+  ![alt text](/assets/document/image-14.png)
 
 - DELETE
 

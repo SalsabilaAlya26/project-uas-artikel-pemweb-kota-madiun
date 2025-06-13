@@ -132,7 +132,7 @@ INSERT INTO `author` (`id`, `nickname`, `email`, `password`) VALUES
 (4, 'ABDI RAMADHAN', 'abdiramadhan@gmail.com', '$2y$10$Wle9n/KAGbiKhTimm5zo5OiVZtayWJcfgzw6GHV6RZrD3H9gY8ose'),
 (5, 'FERDIANSYAH', 'ferdiansyah@gmail.com', '$2y$10$Wle9n/KAGbiKhTimm5zo5OiVZtayWJcfgzw6GHV6RZrD3H9gY8ose'),
 (6, 'TIMOTHY ANTONIO', 'timothy@gmail.com', '$2y$10$Wle9n/KAGbiKhTimm5zo5OiVZtayWJcfgzw6GHV6RZrD3H9gY8ose'),
-(8, 'SABIL', 'sabil@gmail.com', '$2y$10$m/UgaXBM5EuOvgHKhBXDd./ukBKyAdWonVmRvn2lUnBathAJNoizm');
+(7, 'SABIL', 'sabil@gmail.com', '$2y$10$m/UgaXBM5EuOvgHKhBXDd./ukBKyAdWonVmRvn2lUnBathAJNoizm');
 
 -- semua password 12345678 
 
