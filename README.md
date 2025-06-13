@@ -4,7 +4,7 @@
 Website blog artikel tentang Kota Madiun yang memungkinkan pengunjung untuk membaca artikel dan penulis untuk mengelola konten melalui sistem manajemen konten (CMS) yang terintegrasi.
 
 ## 🌐 Link Demo
-- **URL Blog Online**: [http://salsabila-artikel-madiun.wuaze.com](http://salsabila-artikel-madiun.wuaze.com)
+- **URL Blog Online**: [http://salsabila-artikel-madiun.kesug.com](http://salsabila-artikel-madiun.kesug.com)
 - **Repository GitHub**: [https://github.com/SalsabilaAlya26/project-uas-artikel-pemweb-kota-madiun](https://github.com/SalsabilaAlya26/project-uas-artikel-pemweb-kota-madiun)
 
 ## 🚀 Fitur Utama
