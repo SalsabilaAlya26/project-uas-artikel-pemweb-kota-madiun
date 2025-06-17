@@ -14,21 +14,21 @@ if ($isLoggedIn) {
     if (isset($_SESSION['role'])) {
         $userRole = $_SESSION['role'];
     } else {
-        // Query ke database untuk mendapatkan role
-        $stmt = $koneksi->prepare("SELECT role FROM author WHERE id = ?");
-        if ($stmt) {
-            $stmt->bind_param("i", $_SESSION['author_id']);
-            $stmt->execute();
-            $result = $stmt->get_result();
-            if ($row = $result->fetch_assoc()) {
+        // Query ke database untuk mendapatkan role menggunakan PDO
+        try {
+            $stmt = $pdo->prepare("SELECT role FROM author WHERE id = :author_id");
+            $stmt->execute(['author_id' => $_SESSION['author_id']]);
+            $row = $stmt->fetch();
+            
+            if ($row) {
                 $userRole = $row['role'];
                 $_SESSION['role'] = $userRole; // Simpan ke session untuk penggunaan selanjutnya
             } else {
                 $userRole = 'pengunjung'; // Default jika user tidak ditemukan
             }
-            $stmt->close();
-        } else {
+        } catch(PDOException $e) {
             $userRole = 'pengunjung'; // Default jika query gagal
+            error_log("Error fetching user role: " . $e->getMessage());
         }
     }
 }
