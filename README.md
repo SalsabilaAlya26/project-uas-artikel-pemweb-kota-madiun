@@ -4,7 +4,7 @@
 Website blog artikel tentang Kota Madiun yang memungkinkan pengunjung untuk membaca artikel dan penulis untuk mengelola konten melalui sistem manajemen konten (CMS) yang terintegrasi.
 
 ## 🌐 Link Demo
-- **URL Blog Online**: [http://salsabila-artikel-madiun.wuaze.com](http://salsabila-artikel-madiun.wuaze.com)
+- **URL Blog Online**: [http://salsabila-artikel-madiun.kesug.com](http://salsabila-artikel-madiun.kesug.com)
 - **Repository GitHub**: [https://github.com/SalsabilaAlya26/project-uas-artikel-pemweb-kota-madiun](https://github.com/SalsabilaAlya26/project-uas-artikel-pemweb-kota-madiun)
 
 ## 🚀 Fitur Utama
@@ -172,3 +172,95 @@ Semua penulis menggunakan password yang sama:
 - MySQL Database
 - Session Management
 
+
+
+
+
+
+
+
+``
+*1. INFORMASI DASAR WEBSITE ARTIKEL KOTA MADIUN*
+Link Utama Website:
+https://salsabila-artikel-madiun.kesug.com
+Detail Proyek:
+Developer: Nabila Ilmiatus S.
+GitHub: https://github.com/SalsabilaAlya26/project-uas-artikel-pemweb-kota-madiun.git
+Akses Langsung:
+Main Page (Pengunjung): https://salsabila-artikel-madiun.kesug.com/index.php
+Dashboard (Pengunjung): https://salsabila-artikel-madiun.kesug.com/dashboard.php
+
+*2. FITUR TOMBOL "LIHAT SEMUA ARTIKEL"*
+Tombol "Lihat Semua Artikel":
+- Belum login: Redirect ke login.php
+- Sudah login: Muncul toaster pink gelap dengan pesan:
+  "Anda sudah masuk sebagai penulis"
+  "Anda sudah masuk sebagai pengunjung"
+  "Masuk untuk melihat artikel atau menulis artikel"
+
+*3. FITUR TOMBOL PORTAL DINAMIS*
+Tombol Portal (Dinamis):
+- Login sebagai penulis: "Portal Penulis" (ke dashboard.php)
+- Login sebagai pengunjung: "Portal Pengunjung" (ke main.php)
+- Belum login: "Masuk"
+Tombol "Keluar":
+- Hanya muncul jika sudah login
+- Tidak ditampilkan jika belum login
+
+*4. AKUN DEMO UNTUK TESTING*
+PENULIS
+Username: SABIL
+Password: 12345678
+PENGUNJUNG
+Username: CANTIKA MELATI
+Password: 12345678
+Password terenkripsi MD5
+
+*5. PANDUAN PENGGUNAAN*
+Cara Penggunaan:
+1. Daftar: Pilih role (pengunjung/penulis)
+2. Login: Setelah berhasil login akan diarahkan ke index.php
+3. Navigasi: Gunakan tombol dinamis sesuai role user
+Catatan: Semua navigasi bersifat dinamis berdasarkan status login dan role user*1. INFORMASI DASAR WEBSITE ARTIKEL KOTA MADIUN*
+Link Utama Website:
+https://salsabila-artikel-madiun.kesug.com
+Detail Proyek:
+Developer: Nabila Ilmiatus S.
+GitHub: https://github.com/SalsabilaAlya26/project-uas-artikel-pemweb-kota-madiun.git
+Akses Langsung:
+Main Page (Pengunjung): https://salsabila-artikel-madiun.kesug.com/index.php
+Dashboard (Pengunjung): https://salsabila-artikel-madiun.kesug.com/dashboard.php
+
+*2. FITUR TOMBOL "LIHAT SEMUA ARTIKEL"*
+Tombol "Lihat Semua Artikel":
+- Belum login: Redirect ke login.php
+- Sudah login: Muncul toaster pink gelap dengan pesan:
+  "Anda sudah masuk sebagai penulis"
+  "Anda sudah masuk sebagai pengunjung"
+  "Masuk untuk melihat artikel atau menulis artikel"
+
+*3. FITUR TOMBOL PORTAL DINAMIS*
+Tombol Portal (Dinamis):
+- Login sebagai penulis: "Portal Penulis" (ke dashboard.php)
+- Login sebagai pengunjung: "Portal Pengunjung" (ke main.php)
+- Belum login: "Masuk"
+Tombol "Keluar":
+- Hanya muncul jika sudah login
+- Tidak ditampilkan jika belum login
+
+*4. AKUN DEMO UNTUK TESTING*
+PENULIS
+Username: SABIL
+Password: 12345678
+PENGUNJUNG
+Username: CANTIKA MELATI
+Password: 12345678
+Password terenkripsi MD5
+
+*5. PANDUAN PENGGUNAAN*
+Cara Penggunaan:
+1. Daftar: Pilih role (pengunjung/penulis)
+2. Login: Setelah berhasil login akan diarahkan ke index.php
+3. Navigasi: Gunakan tombol dinamis sesuai role user
+Catatan: Semua navigasi bersifat dinamis berdasarkan status login dan role user
+```
