@@ -43,6 +43,12 @@ Pengguna dengan akses sebagai penulis atau admin dapat:
 - **URL Blog Online**: [http://salsabila-artikel-madiun.kesug.com](http://salsabila-artikel-madiun.kesug.com)
 - **Repository GitHub**: [https://github.com/SalsabilaAlya26/project-uas-artikel-pemweb-kota-madiun](https://github.com/SalsabilaAlya26/project-uas-artikel-pemweb-kota-madiun)
 
+## Tampilan Awal
+![image](https://github.com/user-attachments/assets/b07f781d-ab14-4b67-975f-39d5697013b6)
+![image](https://github.com/user-attachments/assets/2ba463cb-12a8-409b-ba1a-3bfbda7fae6f) --> Kita harus masuk/login dulu untuk melihat, ataupun menulis artikel
+
+
+
 ## 🚀 Fitur Utama
 
 ### 1. Halaman Pengunjung
