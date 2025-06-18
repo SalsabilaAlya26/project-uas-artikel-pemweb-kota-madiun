@@ -151,7 +151,7 @@ Session akan berlaku selama 1 jam dengan tampilan button seperti ini
 
 ![image](https://github.com/user-attachments/assets/7bdba6bb-201a-4784-b33a-b1425cc71e48)
 
-Di mode Penjung ini, hanya dapat membaca, tidak bisa menambahkan, mengganti, ataupun mengedit artikel 
+Di mode Pengunjung ini, hanya dapat membaca, tidak bisa menambahkan, mengganti, ataupun mengedit artikel 
 
 ![image](https://github.com/user-attachments/assets/388dbebb-2c60-49ba-b949-9d7402a6d848)
 
@@ -205,10 +205,13 @@ Semua penulis menggunakan password yang sama:
 Link Utama Website:
 https://salsabila-artikel-madiun.kesug.com
 Detail Proyek:
-GitHub: https://github.com/SalsabilaAlya26/project-uas-artikel-pemweb-kota-madiun.git
+GitHub: 
+https://github.com/SalsabilaAlya26/project-uas-artikel-pemweb-kota-madiun.git
 Akses Langsung:
-Main Page (Pengunjung): https://salsabila-artikel-madiun.kesug.com/index.php
-Dashboard (Pengunjung): https://salsabila-artikel-madiun.kesug.com/dashboard.php
+Main Page (Pengunjung): 
+https://salsabila-artikel-madiun.kesug.com/index.php
+Dashboard (Pengunjung):
+https://salsabila-artikel-madiun.kesug.com/dashboard.php
 
 *2. FITUR TOMBOL "LIHAT SEMUA ARTIKEL"*
 Tombol "Lihat Semua Artikel":
