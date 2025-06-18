@@ -45,24 +45,38 @@ Pengguna dengan akses sebagai penulis atau admin dapat:
 
 ## Tampilan Awal
 ![image](https://github.com/user-attachments/assets/b07f781d-ab14-4b67-975f-39d5697013b6)
+
 ![image](https://github.com/user-attachments/assets/2ba463cb-12a8-409b-ba1a-3bfbda7fae6f) 
+
 --> Kita harus masuk/login dulu untuk melihat, ataupun menulis artikel
 
 
 
 ## 🚀 Fitur Utama
 ### A. Login Sebagai Penulis/Admin
+
 Registrasi dulu, jika belum memiliki akun login sebagai Penulis/Admin 
+
 ![image](https://github.com/user-attachments/assets/611ddb80-29ee-4354-9e21-b1251b170e9a)
+
 Jika berhasil, maka akan muncul tampilan seperti ini 
+
 ![image](https://github.com/user-attachments/assets/57b070c4-7715-409d-8957-77e89582b2f1)
+
 Lalu silahkan lanjutkan untuk login 
+
 ![image](https://github.com/user-attachments/assets/949b5782-b4e8-40bf-93d3-a313ccc8c48d)
+
 Anda sudah masuk dalam mode Pengunjung/Admin, maka tampilannya akan seperti ini 
+
 ![image](https://github.com/user-attachments/assets/941e4922-4c97-402b-aba0-14f987734545)
+
 Session akan berlaku selama 1 jam dengan tampilan button seperti ini 
+
 ![image](https://github.com/user-attachments/assets/6a6916a1-0fec-4fde-afb2-ac50556a0cb2)
+
 Ini adalah tampilan ketika Anda masuk dalam mode Penulis/Admin 
+
 ![image](https://github.com/user-attachments/assets/826317b0-7441-4c61-b0d1-ad62eb7ac2e7)
 Silahkan jika ingin menambahkan artikel baru 
 ![image](https://github.com/user-attachments/assets/6b7ff6f9-4112-418b-8e4c-12e35d7d01b0)
