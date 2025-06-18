@@ -7,6 +7,7 @@ Ringkasan:
 Proyek ini merupakan sebuah website blog artikel yang membahas berbagai topik menarik seputar Kota Madiun, seperti tempat wisata, kuliner, budaya, sejarah, dan berita lokal. Website ini dirancang dengan sistem dua mode pengguna, yaitu mode penulis/admin dan mode pengunjung, yang masing-masing memiliki fungsi dan akses yang berbeda sesuai dengan peran mereka.
 
 Mode Pengunjung
+
 Pengunjung website dapat:
 
 1. Melihat daftar artikel terbaru atau populer.
@@ -22,6 +23,7 @@ Pengunjung website dapat:
 6. Pengunjung tidak perlu login untuk mengakses konten.
 
 Mode Penulis/Admin (CMS)
+
 Pengguna dengan akses sebagai penulis atau admin dapat:
 
 1. Login ke dalam sistem manajemen konten (CMS).
