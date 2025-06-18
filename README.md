@@ -129,7 +129,7 @@ Jika tidak ada di kolom pencarian, maka tampilannya akan seperti ini
 
 ![image](https://github.com/user-attachments/assets/5169f986-ee64-4c2e-a5bb-2000fc82a8ec)
 
-### Login Sebagai Prngunjung
+### B. Login Sebagai Pengunjung
 
 Registrasi dulu, jika belum memiliki akun login sebagai Pengunjung 
 
