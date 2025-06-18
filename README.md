@@ -263,4 +263,6 @@ Cara Penggunaan:
 2. Login: Setelah berhasil login akan diarahkan ke index.php
 3. Navigasi: Gunakan tombol dinamis sesuai role user
 Catatan: Semua navigasi bersifat dinamis berdasarkan status login dan role user
+![image](https://github.com/user-attachments/assets/660e0402-a866-4fec-bc61-65847fe529be)
+
 ```
