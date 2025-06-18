@@ -1,7 +1,43 @@
 # Blog Artikel Kota Madiun
 
 ## Deskripsi Proyek
-Website blog artikel tentang Kota Madiun yang memungkinkan pengunjung untuk membaca artikel dan penulis untuk mengelola konten melalui sistem manajemen konten (CMS) yang terintegrasi.
+Nama Proyek: Website Blog Artikel "Kota Madiun"
+
+Ringkasan:
+Proyek ini merupakan sebuah website blog artikel yang membahas berbagai topik menarik seputar Kota Madiun, seperti tempat wisata, kuliner, budaya, sejarah, dan berita lokal. Website ini dirancang dengan sistem dua mode pengguna, yaitu mode penulis/admin dan mode pengunjung, yang masing-masing memiliki fungsi dan akses yang berbeda sesuai dengan peran mereka.
+
+Mode Pengunjung
+Pengunjung website dapat:
+
+1. Melihat daftar artikel terbaru atau populer.
+
+2. Membaca isi artikel secara lengkap.
+
+3. Menelusuri artikel berdasarkan kategori (misalnya: wisata, kuliner, budaya).
+
+4. Mencari artikel melalui fitur pencarian.
+
+5. Melihat detail profil penulis artikel (opsional).
+
+6. Pengunjung tidak perlu login untuk mengakses konten.
+
+Mode Penulis/Admin (CMS)
+Pengguna dengan akses sebagai penulis atau admin dapat:
+
+1. Login ke dalam sistem manajemen konten (CMS).
+
+2. Menambahkan artikel baru dengan judul, isi, gambar, dan kategori.
+
+3. Mengedit atau menghapus artikel yang sudah dipublikasikan.
+
+4. Mengelola kategori artikel.
+
+5. Melihat daftar semua artikel beserta statistik (jumlah artikel, artikel per kategori, dll).
+
+6. (Opsional) Mengelola akun penulis lain (khusus admin).
+
+7. Logout dari sistem dengan aman.
+
 
 ## 🌐 Link Demo
 - **URL Blog Online**: [http://salsabila-artikel-madiun.kesug.com](http://salsabila-artikel-madiun.kesug.com)
