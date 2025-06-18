@@ -244,12 +244,7 @@ Cara Penggunaan:
 1. Daftar: Pilih role (pengunjung/penulis)
 2. Login: Setelah berhasil login akan diarahkan ke index.php
 3. Navigasi: Gunakan tombol dinamis sesuai role user
-Catatan: Semua navigasi bersifat dinamis berdasarkan status login dan role user*1. INFORMASI DASAR WEBSITE ARTIKEL KOTA MADIUN*
-Link Utama Website:
-https://salsabila-artikel-madiun.kesug.com
-Detail Proyek:
-GitHub: https://github.com/SalsabilaAlya26/project-uas-artikel-pemweb-kota-madiun.git
-Akses Langsung:
-Main Page (Pengunjung): https://salsabila-artikel-madiun.kesug.com/index.php
-Dashboard (Pengunjung): https://salsabila-artikel-madiun.kesug.com/dashboard.php
+Catatan: Semua navigasi bersifat dinamis berdasarkan status login dan role user
+
+
 
